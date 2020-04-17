@@ -143,9 +143,9 @@ void CsistemadlyapoiskakrujkovisekciydlyadeteyDlg::OnPaint()
 	else
 	{
 		CDialogEx::OnPaint();
+		//создание конфликта
 	}
 }
-
 // Система вызывает эту функцию для получения отображения курсора при перемещении
 //  свернутого окна.
 HCURSOR CsistemadlyapoiskakrujkovisekciydlyadeteyDlg::OnQueryDragIcon()
