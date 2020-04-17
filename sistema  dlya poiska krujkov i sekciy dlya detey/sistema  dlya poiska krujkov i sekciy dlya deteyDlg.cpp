@@ -142,7 +142,9 @@ void CsistemadlyapoiskakrujkovisekciydlyadeteyDlg::OnPaint()
 	}
 	else
 	{
+		//тест кофликта
 		CDialogEx::OnPaint();
+		//тест конфликта 2 
 	}
 }
 
