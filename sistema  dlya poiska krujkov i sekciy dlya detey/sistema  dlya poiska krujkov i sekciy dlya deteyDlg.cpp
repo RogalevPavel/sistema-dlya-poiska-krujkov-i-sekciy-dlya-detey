@@ -146,7 +146,7 @@ void CsistemadlyapoiskakrujkovisekciydlyadeteyDlg::OnPaint()
 		CDialogEx::OnPaint();
 
 		//тест конфликта 2 
-
+		//тестируем еще раз
 	}
 }
 // Система вызывает эту функцию для получения отображения курсора при перемещении
